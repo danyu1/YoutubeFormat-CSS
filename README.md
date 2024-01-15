@@ -1,2 +1,2 @@
-# bootlegYoutube
+# YoutubeFormat
 html and css practice simple youtube ui without functionality
